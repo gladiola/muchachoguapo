@@ -15,7 +15,7 @@ Put artwork files in `figures/`, then replace the empty third argument in each `
 
 ## Build
 
-Compile with XeLaTeX or LuaLaTeX because the template uses system fonts:
+Compile with XeLaTeX or LuaLaTeX because the template uses system fonts. Rerun your chosen engine after illustration or layout changes until the PDF output stabilizes:
 
 ```bash
 xelatex childrens-book.tex

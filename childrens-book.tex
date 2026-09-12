@@ -1,4 +1,4 @@
-\documentclass[10pt,twoside,openany]{book}
+\documentclass[10pt,twoside]{book}
 
 \usepackage[paperwidth=9in,paperheight=12in,
 inner=1in,outer=0.85in,top=1in,bottom=1in,
@@ -82,7 +82,6 @@ bindingoffset=0.2in]{geometry}
   \ifdim\dimexpr\ht\storybox+\dp\storybox\relax>\storyboxheight
     \global\storypageokfalse
     \PackageError{childrens-book}{Story page '#1' is too long for a single spread page}{Split the text across multiple \string\storyspread\space commands or shorten the copy.}%
-    \clearpage
   \else
     \noindent\parbox[t][\storyboxheight][t]{\textwidth}{\usebox{\storybox}}%
     \vfill
@@ -137,6 +136,12 @@ bindingoffset=0.2in]{geometry}
   \end{center}
   \vspace*{\fill}
 \end{titlepage}
+
+\ifodd\value{page}
+  \null
+  \thispagestyle{empty}
+  \newpage
+\fi
 
 \storyspread
   {Story 1}
