@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.26)  14 SEP 2026 10:35
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.26)  14 SEP 2026 10:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -396,104 +396,92 @@ File: figures/mg1.jpeg Graphic file (type bmp)
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [4]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 170.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 170.
+File: figures/mg2.jpeg Graphic file (type bmp)
+<figures/mg2.jpeg>
 
 [5]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [6]
+File: figures/mg3.jpeg Graphic file (type bmp)
+<figures/mg3.jpeg>
+
 [7]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [8]
+File: figures/mg4.jpeg Graphic file (type bmp)
+<figures/mg4.jpeg>
+
 [9]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [10]
+File: figures/mg5.jpeg Graphic file (type bmp)
+<figures/mg5.jpeg>
+
 [11]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [12]
+File: figures/mg6.jpeg Graphic file (type bmp)
+<figures/mg6.jpeg>
+
 [13]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [14]
+File: figures/mg7.jpeg Graphic file (type bmp)
+<figures/mg7.jpeg>
+
 [15]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [16]
+File: figures/mg8.jpeg Graphic file (type bmp)
+<figures/mg8.jpeg>
+
 [17]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [18]
+File: figures/mg9.jpeg Graphic file (type bmp)
+<figures/mg9.jpeg>
+
 [19]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [20]
+File: figures/mg10.jpeg Graphic file (type bmp)
+<figures/mg10.jpeg>
+
 [21]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [22]
+File: figures/mg11.jpeg Graphic file (type bmp)
+<figures/mg11.jpeg>
+
 [23]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [24]
-[25]
-Overfull \vbox (6.0pt too high) has occurred while \output is active []
+File: figures/mg12.jpeg Graphic file (type bmp)
+<figures/mg12.jpeg>
 
- [26]
-[27]
-Overfull \vbox (6.0pt too high) has occurred while \output is active []
-
- [28]
-[29]
-Overfull \vbox (6.0pt too high) has occurred while \output is active []
-
- [30]
-[31]
-Overfull \vbox (6.0pt too high) has occurred while \output is active []
-
- [32]
-[33]
-Overfull \vbox (6.0pt too high) has occurred while \output is active []
-
- [34]
-[35]
-Overfull \vbox (6.0pt too high) has occurred while \output is active []
-
- [36]
-[37]
-Overfull \vbox (6.0pt too high) has occurred while \output is active []
-
- [38]
-[39]
-Overfull \vbox (6.0pt too high) has occurred while \output is active []
-
- [40]
-[41]
-Overfull \vbox (6.0pt too high) has occurred while \output is active []
-
- [42]
-[43]
-Overfull \vbox (6.0pt too high) has occurred while \output is active []
-
- [44]
-[45] (./muchachoguapo.aux)
+[25] (./muchachoguapo.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4941 strings out of 475846
- 126137 string characters out of 5781395
+ 5027 strings out of 475846
+ 127764 string characters out of 5781395
  1911879 words of memory out of 5000000
- 25967 multiletter control sequences out of 15000+600000
- 558381 words of font info for 75 fonts, out of 8000000 for 9000
+ 26046 multiletter control sequences out of 15000+600000
+ 558349 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 79i,6n,93p,256b,251s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,5n,93p,256b,237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on muchachoguapo.pdf (45 pages).
+Output written on muchachoguapo.pdf (25 pages).
