@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.26)  12 SEP 2026 20:30
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.26)  14 SEP 2026 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -389,15 +389,18 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 165.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 165.
+File: figures/mg1.jpeg Graphic file (type bmp)
+<figures/mg1.jpeg>
 
 [3]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 170.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 170.
+
 [5]
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
@@ -474,19 +477,23 @@ Overfull \vbox (6.0pt too high) has occurred while \output is active []
 Overfull \vbox (6.0pt too high) has occurred while \output is active []
 
  [42]
-[43] (./muchachoguapo.aux)
+[43]
+Overfull \vbox (6.0pt too high) has occurred while \output is active []
+
+ [44]
+[45] (./muchachoguapo.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4932 strings out of 475846
- 126007 string characters out of 5781395
+ 4941 strings out of 475846
+ 126137 string characters out of 5781395
  1911879 words of memory out of 5000000
- 25960 multiletter control sequences out of 15000+600000
- 558389 words of font info for 76 fonts, out of 8000000 for 9000
+ 25967 multiletter control sequences out of 15000+600000
+ 558381 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,6n,93p,256b,251s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on muchachoguapo.pdf (43 pages).
+Output written on muchachoguapo.pdf (45 pages).
